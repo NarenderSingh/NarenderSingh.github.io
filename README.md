@@ -4,7 +4,7 @@ https://pages.github.com/
 <br/>
 <hr/>
 https://NarenderSingh.github.io/react-spa <br/>
-https://NarenderSingh.github.io/react-redux-demo <br/>
+https://NarenderSingh.github.io/react-redux-app <br/>
 
 <br/>
 <hr/>
